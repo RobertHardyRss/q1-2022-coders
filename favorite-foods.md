@@ -1,3 +1,5 @@
-Sushi
-Pizza
-Nachos
+# Favorite Foods
+
+* Sushi
+* Pizza
+* Nachos
